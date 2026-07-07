@@ -1,0 +1,9 @@
+instance_id: agent-runtime-hermes-smoke
+workspace_kind: execution-workspace
+sop_type: workspace
+repo: skkeoriw/agent-runtime-hermes-smoke
+runtime_id: runtime-161-35-60-232
+channel_name: runtime-161-35-60-232
+channel_url: https://runtime-161-35-60-232.chxyka.ccwu.cc
+spi_base_url: https://runtime-161-35-60-232.chxyka.ccwu.cc/api/sop
+language: zh-CN
