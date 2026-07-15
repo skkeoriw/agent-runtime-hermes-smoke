@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "executor": "hermes",
+  "requested_skill": "poetry-writer",
+  "node_id": "poetry-writer-mastra-smoke-035039",
+  "node_run_id": "node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a",
+  "runtime_id": "runtime-161-35-60-232",
+  "instance_id": "agent-runtime-hermes-smoke",
+  "workflow_id": "workspace",
+  "template_source": "default",
+  "template_version": "agent-runtime-executor.v1",
+  "selected_agent_runtime": "hermes",
+  "request_path": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/agent/request.md",
+  "response_path": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/agent/response.txt",
+  "receipt_path": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/agent/receipt.json",
+  "input_manifest_path": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/inputs/sources/manifest.json",
+  "output_manifest_path": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/outputs/manifest.json",
+  "node_execution_guide": {},
+  "stage_command": [],
+  "stage_command_preview": "",
+  "created_at": "2026-07-15T04:23:19.120703+00:00"
+}

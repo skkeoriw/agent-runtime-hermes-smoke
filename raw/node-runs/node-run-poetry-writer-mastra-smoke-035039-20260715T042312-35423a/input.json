@@ -1,0 +1,71 @@
+{
+  "mode": "real-node",
+  "input_source": "manual",
+  "manual_inputs": {
+    "instruction": "请以“春雨初晴”为题创作一首七言绝句，并在 result.json 中说明体裁与生成状态。"
+  },
+  "source_node_run_id": "",
+  "relay_mode": "",
+  "selected_outputs": [],
+  "relay_mappings": [],
+  "relay_instruction": "",
+  "sync": false,
+  "a2a": {
+    "protocol_version": "1.0",
+    "message": {
+      "messageId": "msg-1784089391636",
+      "role": "user",
+      "parts": [
+        {
+          "text": "请以“春雨初晴”为题创作一首七言绝句，并在 result.json 中说明体裁与生成状态。",
+          "content": {
+            "$case": "text",
+            "value": "请以“春雨初晴”为题创作一首七言绝句，并在 result.json 中说明体裁与生成状态。"
+          },
+          "mediaType": "text/plain",
+          "filename": "probe.md",
+          "metadata": {
+            "source": "release-verification"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "release-verification"
+      }
+    },
+    "metadata": {
+      "source": "release-verification"
+    },
+    "relay": {
+      "source_node_run_id": "",
+      "relay_mode": "",
+      "selected_outputs": [],
+      "relay_mappings": [],
+      "relay_instruction": ""
+    }
+  },
+  "capability_overrides": {
+    "git": {
+      "enabled": false,
+      "required": false,
+      "managed_by": "runtime-harness",
+      "save_scope": "run",
+      "paths": []
+    },
+    "telegram": {
+      "enabled": false,
+      "required": false,
+      "managed_by": "runtime-harness",
+      "save_scope": "run"
+    }
+  },
+  "_definition_scope_reports": {
+    "instance_override": {
+      "status": "skipped",
+      "reason": "sop.yaml is missing"
+    },
+    "project_default_request": {
+      "status": "skipped"
+    }
+  }
+}

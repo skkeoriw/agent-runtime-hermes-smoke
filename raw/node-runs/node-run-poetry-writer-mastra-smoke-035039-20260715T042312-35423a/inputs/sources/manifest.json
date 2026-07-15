@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "kind": "input",
+  "node_run_id": "node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a",
+  "node_id": "poetry-writer-mastra-smoke-035039",
+  "source_mode": "manual",
+  "created_at": "2026-07-15T04:23:18Z",
+  "items": [
+    {
+      "path": "0001.txt",
+      "source": "manual",
+      "value_type": "text",
+      "source_path": "",
+      "source_node": "",
+      "source_run_id": "",
+      "source_output": "",
+      "input_name": "instruction",
+      "target_input": "instruction",
+      "value_preview": "请以“春雨初晴”为题创作一首七言绝句，并在 result.json 中说明体裁与生成状态。",
+      "materialized_path": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/inputs/sources/0001.txt",
+      "resolved_value": "请以“春雨初晴”为题创作一首七言绝句，并在 result.json 中说明体裁与生成状态。"
+    }
+  ],
+  "selected_outputs": [],
+  "matched_outputs": [],
+  "relay_mappings": [],
+  "input_validation": {
+    "status": "passed",
+    "errors": [],
+    "resolved_values": {
+      "instruction": "请以“春雨初晴”为题创作一首七言绝句，并在 result.json 中说明体裁与生成状态。"
+    },
+    "resolutions": [
+      {
+        "input": "instruction",
+        "source_outputs": [
+          null
+        ],
+        "materialized_paths": [
+          "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/inputs/sources/0001.txt"
+        ],
+        "value_preview": "请以“春雨初晴”为题创作一首七言绝句，并在 result.json 中说明体裁与生成状态。"
+      }
+    ]
+  },
+  "edge_contract": {},
+  "node_execution_guide": {},
+  "workflow_revision": {
+    "version": 1,
+    "hash": "f5f482e9626f88e2",
+    "node_count": 0,
+    "edge_count": 0,
+    "nodes": {},
+    "edges": []
+  },
+  "relay_context": {},
+  "resolution_trace": []
+}

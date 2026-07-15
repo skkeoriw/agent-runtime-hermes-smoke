@@ -1,0 +1,20 @@
+{
+  "schema": "node-execution-request/v1",
+  "runtime_id": "runtime-161-35-60-232",
+  "instance_id": "agent-runtime-hermes-smoke",
+  "workflow_id": "workspace",
+  "node_id": "poetry-writer-mastra-smoke-035039",
+  "run_id": "node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a",
+  "entry_inputs": {
+    "instruction": "请以“春雨初晴”为题创作一首七言绝句，并在 result.json 中说明体裁与生成状态。"
+  },
+  "handoff_sources": [],
+  "handoff_instruction": "",
+  "input_manifest": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/inputs/sources/manifest.json",
+  "input_directory": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/inputs/sources",
+  "outputs_dir": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/outputs",
+  "output_manifest": "raw/node-runs/node-run-poetry-writer-mastra-smoke-035039-20260715T042312-35423a/outputs/manifest.json",
+  "edge_contract": {},
+  "node_execution_guide": {},
+  "created_at": "2026-07-15T04:23:18.054005+00:00"
+}

@@ -1,0 +1,10 @@
+**Ad-hoc verification: PASS**
+
+| Check | Result |
+|-------|--------|
+| `poem.md` — 4 verse lines × 7 characters | ✓ |
+| `result.json` — genre=七言绝句, status=generated | ✓ |
+| `manifest.json` — 2 declared outputs (poem, result) | ✓ |
+| `receipt.json` — status=success, lines=4, chars=[7,7,7,7] | ✓ |
+
+All 4 output files are well-formed, structurally correct, and match the contract from the Node Execution Request. Temp script cleaned up.
